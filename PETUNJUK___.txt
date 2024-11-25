@@ -1,0 +1,28 @@
+REQ PASSWORD RAR
+HUB : 08179851011
+==================
+Aplikasi Pembayaran SPP Online - Laravel
+=====================================================
+PLAYLIST LENGKAP SOURCE CODE : https://bit.ly/3O3eApC
+=====================================================
+## Framework 
+LARAVEL VERSION = '9.52.14
+
+## Requirement
+1. PHP: 8.2.0
+2. MySQL / MariaDB
+
+==PETUNJUK INSTALASI==
+#ektrak file project
+#buat database dan import sql di folder _db
+#sesuiakan nama database di .env
+#buka terminal pada folder project
+#jalankan perintah : php artisan serve
+#jalankan perintah : npm run dev
+#buka url : http://127.0.0.1:8000/
+
+==USER/PAS DEMO==
+ADMIN
+user : admin@admin.com
+pass : 12345678
+
